@@ -1,0 +1,54 @@
+﻿,timestamp,merchant,amount,category,risk,risk_score,notes,location
+0,2025-11-12T17:31:59.507,Swiggy,438,Food Delivery,LOW,-0.18367432806837702,Historical data,Bengaluru
+1,2025-11-12T14:31:59.507,Zomato,359,Food Delivery,LOW,-0.21859597059050465,Historical data,Bengaluru
+2,2025-11-11T17:31:59.507,Swiggy,293,Food Delivery,LOW,-0.24777101371025684,Historical data,Bengaluru
+3,2025-11-11T12:31:59.507,Uber,297,Ridesharing,LOW,-0.24600282927875672,Historical data,Bengaluru
+4,2025-11-11T05:31:59.507,Third Wave,175,Coffee & Tea,LOW,-0.2999324544395108,Historical data,Bengaluru
+5,2025-11-10T15:31:59.507,Zomato,394,Food Delivery,LOW,-0.20312435681487848,Historical data,Bengaluru
+6,2025-11-10T03:31:59.507,BigBasket,2934,Groceries,LOW,0.919672757187706,Historical data,Bengaluru
+7,2025-11-09T12:31:59.507,Ola Cabs,158,Ridesharing,LOW,-0.3074472382733863,Historical data,Bengaluru
+8,2025-11-09T06:31:59.507,Uber,260,Ridesharing,LOW,-0.2623585352701329,Historical data,Bengaluru
+9,2025-11-09T03:31:59.507,Third Wave,183,Coffee & Tea,LOW,-0.2963960855765105,Historical data,Bengaluru
+10,2025-11-09T03:31:59.507,Third Wave,140,Coffee & Tea,LOW,-0.31540406821513695,Historical data,Bengaluru
+11,2025-11-08T14:31:59.507,Swiggy,323,Food Delivery,LOW,-0.23450963047400586,Historical data,Bengaluru
+12,2025-11-06T16:31:59.507,Swiggy,599,Food Delivery,LOW,-0.11250490470049666,Historical data,Bengaluru
+13,2025-11-04T09:31:59.507,Uber,185,Ridesharing,LOW,-0.29551199336076045,Historical data,Bengaluru
+14,2025-11-04T05:31:59.507,Uber,254,Ridesharing,LOW,-0.2650108119173831,Historical data,Bengaluru
+15,2025-11-04T05:31:59.507,Ramesh's Tea Stall,174,Coffee & Tea,LOW,-0.3003745005473858,Historical data,Bengaluru
+16,2025-11-04T05:31:59.507,Ramesh's Tea Stall,145,Coffee & Tea,LOW,-0.31319383767576175,Historical data,Bengaluru
+17,2025-11-04T05:31:59.507,Third Wave,236,Coffee & Tea,LOW,-0.27296764185913375,Historical data,Bengaluru
+18,2025-11-03T14:31:59.507,Zomato,436,Food Delivery,LOW,-0.18455842028412708,Historical data,Bengaluru
+19,2025-11-03T05:31:59.507,Zepto,3234,Groceries,LOW,1.052286589550216,Historical data,Bengaluru
+20,2025-11-02T16:31:59.507,Swiggy,322,Food Delivery,LOW,-0.23495167658188088,Historical data,Bengaluru
+21,2025-11-02T09:31:59.507,QuickEditor Pro,1299,Subscriptions,LOW,0.19692737081202666,Historical data,Bengaluru
+22,2025-11-02T03:31:59.507,Cafe Coffee Day,172,Coffee & Tea,LOW,-0.3012585927631359,Historical data,Bengaluru
+23,2025-10-28T11:31:59.507,Amazon Electronics,2500,Electronics,LOW,0.7278247463699415,Historical data,Bengaluru
+24,2025-10-28T06:31:59.507,Ola Cabs,341,Ridesharing,LOW,-0.22655280053225524,Historical data,Bengaluru
+26,2025-10-28T05:31:59.507,Third Wave,234,Coffee & Tea,LOW,-0.27385173407488383,Historical data,Bengaluru
+25,2025-10-28T05:31:59.507,Uber,239,Ridesharing,LOW,-0.27164150353550864,Historical data,Bengaluru
+27,2025-10-28T04:31:59.507,Cafe Coffee Day,191,Coffee & Tea,LOW,-0.29285971671351024,Historical data,Bengaluru
+28,2025-10-27T04:31:59.507,Zepto,3954,Groceries,LOW,1.37055978722024,Historical data,Bengaluru
+29,2025-10-26T04:31:59.507,Ola Cabs,299,Ridesharing,LOW,-0.24511873706300666,Historical data,Bengaluru
+30,2025-10-26T04:31:59.507,Ramesh's Tea Stall,124,Coffee & Tea,LOW,-0.3224768059411375,Historical data,Bengaluru
+31,2025-10-25T15:31:59.507,Swiggy,460,Food Delivery,LOW,-0.17394931369512628,Historical data,Bengaluru
+32,2025-10-23T17:31:59.507,Zomato,346,Food Delivery,LOW,-0.22434256999288008,Historical data,Bengaluru
+33,2025-10-23T14:31:59.507,Netflix,649,Subscriptions,LOW,-0.09040259930674499,Historical data,Bengaluru
+34,2025-10-21T11:31:59.507,Uber,386,Ridesharing,LOW,-0.20666072567787874,Historical data,Bengaluru
+35,2025-10-21T10:31:59.507,Ola Cabs,378,Ridesharing,LOW,-0.210197094540879,Historical data,Bengaluru
+36,2025-10-21T08:31:59.507,Uber,168,Ridesharing,LOW,-0.303026777194636,Historical data,Bengaluru
+37,2025-10-21T07:31:59.507,Uber,200,Ridesharing,LOW,-0.28888130174263493,Historical data,Bengaluru
+38,2025-10-21T03:31:59.507,Ramesh's Tea Stall,185,Coffee & Tea,LOW,-0.29551199336076045,Historical data,Bengaluru
+39,2025-10-20T07:31:59.507,Zepto,3325,Groceries,LOW,1.0925127853668442,Historical data,Bengaluru
+40,2025-10-19T13:31:59.507,Uber,378,Ridesharing,LOW,-0.210197094540879,Historical data,Bengaluru
+41,2025-10-19T09:31:59.507,Ola Cabs,159,Ridesharing,LOW,-0.3070051921655113,Historical data,Bengaluru
+42,2025-10-19T08:31:59.507,Uber,203,Ridesharing,LOW,-0.28755516341900983,Historical data,Bengaluru
+43,2025-10-19T05:31:59.507,Cafe Coffee Day,131,Coffee & Tea,LOW,-0.31938248318601226,Historical data,Bengaluru
+44,2025-10-19T05:31:59.507,Cafe Coffee Day,225,Coffee & Tea,LOW,-0.2778301490457591,Historical data,Bengaluru
+45,2025-10-19T05:31:59.507,Cafe Coffee Day,210,Coffee & Tea,LOW,-0.2844608406638846,Historical data,Bengaluru
+46,2025-10-19T04:31:59.507,Ramesh's Tea Stall,244,Coffee & Tea,LOW,-0.26943127299613345,Historical data,Bengaluru
+47,2025-10-19T04:31:59.507,Ramesh's Tea Stall,180,Coffee & Tea,LOW,-0.2977222239001356,Historical data,Bengaluru
+48,2025-10-19T04:31:59.507,Cafe Coffee Day,163,Coffee & Tea,LOW,-0.3052370077340112,Historical data,Bengaluru
+49,2025-10-19T04:31:59.507,Third Wave,176,Coffee & Tea,LOW,-0.29949040833163576,Historical data,Bengaluru
+50,2025-10-19T03:31:59.507,Ramesh's Tea Stall,246,Coffee & Tea,LOW,-0.2685471807803834,Historical data,Bengaluru
+51,2025-10-19T03:31:59.507,Cafe Coffee Day,212,Coffee & Tea,LOW,-0.2835767484481345,Historical data,Bengaluru
+52,2025-10-18T23:31:59.507,Monthly Rent Transfer,15720,Rent,LOW,6.571674292477882,Historical data,Bengaluru
