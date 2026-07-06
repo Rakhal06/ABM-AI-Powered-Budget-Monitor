@@ -440,18 +440,7 @@ None of the above block a demo/MVP — they're the natural punch-list from proto
 
 ---
 
-## 👥 Contributors
 
-| Name | Roll Number |
-|---|---|
-| B. Rakhal Krishna | 24BDS009 |
-| B. Vineel Tej | 24BDS010 |
-| Ashish | 24BDS015 |
-| Charandeep Koushal | 24BDS029 |
-| K. Rishikesh | 24BDS030 |
-| Arjun Kumar | 24BDS039 |
-
----
 
 ## 📄 License
 
