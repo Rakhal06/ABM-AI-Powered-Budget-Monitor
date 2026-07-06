@@ -1,0 +1,9 @@
+streamlit
+streamlit
+pandas
+numpy
+matplotlib
+openpyxl
+python-dateutil
+openai
+tiktoken
